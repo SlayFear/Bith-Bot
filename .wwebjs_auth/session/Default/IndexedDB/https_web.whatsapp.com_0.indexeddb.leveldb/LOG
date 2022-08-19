@@ -1,23 +1,15 @@
-2022/08/19-11:30:31.063 128e4 Creating DB C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2022/08/19-11:30:31.068 128e4 Reusing MANIFEST C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/19-11:56:15.664 128e0 Level-0 table #5: started
-2022/08/19-11:56:15.701 128e0 Level-0 table #5: 1228576 bytes OK
-2022/08/19-11:56:15.703 128e0 Delete type=0 #3
-2022/08/19-11:56:55.797 128e0 Level-0 table #7: started
-2022/08/19-11:56:55.822 128e0 Level-0 table #7: 1179156 bytes OK
-2022/08/19-11:56:55.824 128e0 Delete type=0 #4
-2022/08/19-11:56:56.282 128e4 Compacting 1@1 + 1@2 files
-2022/08/19-11:56:56.339 128e4 Generated table #8@1: 20132 keys, 1142651 bytes
-2022/08/19-11:56:56.339 128e4 Compacted 1@1 + 1@2 files => 1142651 bytes
-2022/08/19-11:56:56.341 128e4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/08/19-11:57:57.968 128e4 Level-0 table #10: started
-2022/08/19-11:57:57.991 128e4 Level-0 table #10: 1229919 bytes OK
-2022/08/19-11:57:57.994 128e4 Delete type=2 #5
-2022/08/19-11:57:57.994 128e4 Delete type=0 #6
-2022/08/19-11:57:57.994 128e4 Delete type=2 #7
-2022/08/19-11:57:58.188 1090c Compacting 1@1 + 1@2 files
-2022/08/19-11:57:58.234 1090c Generated table #11@1: 34114 keys, 1660592 bytes
-2022/08/19-11:57:58.234 1090c Compacted 1@1 + 1@2 files => 1660592 bytes
-2022/08/19-11:57:58.236 1090c compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/08/19-11:57:58.236 1090c Delete type=2 #8
-2022/08/19-11:57:58.236 1090c Delete type=2 #10
+2022/08/19-14:55:44.215 16d0c Reusing MANIFEST C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/19-14:55:44.215 16d0c Recovering log #32
+2022/08/19-14:55:44.231 16d0c Reusing old log C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000032.log 
+2022/08/19-15:04:58.504 17d24 Level-0 table #38: started
+2022/08/19-15:04:58.528 17d24 Level-0 table #38: 1262422 bytes OK
+2022/08/19-15:04:58.530 17d24 Delete type=0 #32
+2022/08/19-15:06:23.732 18f18 Compacting 1@1 + 3@2 files
+2022/08/19-15:06:23.807 18f18 Generated table #39@1: 33091 keys, 2264166 bytes
+2022/08/19-15:06:23.848 18f18 Generated table #40@1: 31817 keys, 1025011 bytes
+2022/08/19-15:06:23.848 18f18 Compacted 1@1 + 3@2 files => 3289177 bytes
+2022/08/19-15:06:23.849 18f18 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/08/19-15:06:23.850 18f18 Delete type=2 #20
+2022/08/19-15:06:23.850 18f18 Delete type=2 #34
+2022/08/19-15:06:23.850 18f18 Delete type=2 #35
+2022/08/19-15:06:23.850 18f18 Delete type=2 #38
