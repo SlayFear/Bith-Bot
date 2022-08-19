@@ -1,0 +1,23 @@
+2022/08/19-11:30:31.063 128e4 Creating DB C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/08/19-11:30:31.068 128e4 Reusing MANIFEST C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/19-11:56:15.664 128e0 Level-0 table #5: started
+2022/08/19-11:56:15.701 128e0 Level-0 table #5: 1228576 bytes OK
+2022/08/19-11:56:15.703 128e0 Delete type=0 #3
+2022/08/19-11:56:55.797 128e0 Level-0 table #7: started
+2022/08/19-11:56:55.822 128e0 Level-0 table #7: 1179156 bytes OK
+2022/08/19-11:56:55.824 128e0 Delete type=0 #4
+2022/08/19-11:56:56.282 128e4 Compacting 1@1 + 1@2 files
+2022/08/19-11:56:56.339 128e4 Generated table #8@1: 20132 keys, 1142651 bytes
+2022/08/19-11:56:56.339 128e4 Compacted 1@1 + 1@2 files => 1142651 bytes
+2022/08/19-11:56:56.341 128e4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/19-11:57:57.968 128e4 Level-0 table #10: started
+2022/08/19-11:57:57.991 128e4 Level-0 table #10: 1229919 bytes OK
+2022/08/19-11:57:57.994 128e4 Delete type=2 #5
+2022/08/19-11:57:57.994 128e4 Delete type=0 #6
+2022/08/19-11:57:57.994 128e4 Delete type=2 #7
+2022/08/19-11:57:58.188 1090c Compacting 1@1 + 1@2 files
+2022/08/19-11:57:58.234 1090c Generated table #11@1: 34114 keys, 1660592 bytes
+2022/08/19-11:57:58.234 1090c Compacted 1@1 + 1@2 files => 1660592 bytes
+2022/08/19-11:57:58.236 1090c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/19-11:57:58.236 1090c Delete type=2 #8
+2022/08/19-11:57:58.236 1090c Delete type=2 #10
