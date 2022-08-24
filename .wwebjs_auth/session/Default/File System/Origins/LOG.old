@@ -1,5 +1,1 @@
-2022/08/22-16:11:40.230 29be0 Log #3: 6 ops saved to Table #4 OK
-2022/08/22-16:11:40.234 29be0 Archiving C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\File System\Origins/000003.log: OK
-2022/08/22-16:11:40.234 29be0 Table #4: 6 entries OK
-2022/08/22-16:11:40.235 29be0 Archiving C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001: OK
-2022/08/22-16:11:40.243 29be0 **** Repaired leveldb C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\File System\Origins; recovered 1 files; 219 bytes. Some data may have been lost. ****
+2022/08/22-16:11:40.251 29be0 Reusing MANIFEST C:\Users\LuisGarza\Documents\Personal\Bith-Bot\.wwebjs_auth\session\Default\File System\Origins/MANIFEST-000001
